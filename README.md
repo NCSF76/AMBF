@@ -27,9 +27,9 @@ $ python AMBF.py
 </ol>
 <img src="https://raw.githubusercontent.com/NCSF76/AMBF/main/img/IMG_20240311_133354.jpg">
 
-<h2>contact me</h2>
+<h2>CONTACT ME</h2>
 
 ```
-Telegram  : NCSFLSPYTHON
+Telegram : NCSFLSPYTHON
 Facebook : F2019A
 ```
