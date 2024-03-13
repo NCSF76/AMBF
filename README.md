@@ -23,7 +23,7 @@ $ pkg upgrade -y
 $ pkg install python -y
 $ pkg install git -y
 $ pkg install play-audio
-$ pip install rich bs4 requests stdiomask
+$ pip install rich bs4 requests stdiomask cython
 $ git clone https://github.com/NCSF/AMBF
 $ cd $HOME/AMBF
 $ python AMBF.py
